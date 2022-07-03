@@ -1,0 +1,8 @@
+C:\Users\hanyo\source\repos\Assignment3\CsharpAssignment3\ShapeAreaPerimeter\ShapeAreaPerimeter\bin\Debug\ShapeAreaPerimeter.exe.config
+C:\Users\hanyo\source\repos\Assignment3\CsharpAssignment3\ShapeAreaPerimeter\ShapeAreaPerimeter\bin\Debug\ShapeAreaPerimeter.exe
+C:\Users\hanyo\source\repos\Assignment3\CsharpAssignment3\ShapeAreaPerimeter\ShapeAreaPerimeter\bin\Debug\ShapeAreaPerimeter.pdb
+C:\Users\hanyo\source\repos\Assignment3\CsharpAssignment3\ShapeAreaPerimeter\ShapeAreaPerimeter\obj\Debug\ShapeAreaPerimeter.csproj.AssemblyReference.cache
+C:\Users\hanyo\source\repos\Assignment3\CsharpAssignment3\ShapeAreaPerimeter\ShapeAreaPerimeter\obj\Debug\ShapeAreaPerimeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanyo\source\repos\Assignment3\CsharpAssignment3\ShapeAreaPerimeter\ShapeAreaPerimeter\obj\Debug\ShapeAreaPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\hanyo\source\repos\Assignment3\CsharpAssignment3\ShapeAreaPerimeter\ShapeAreaPerimeter\obj\Debug\ShapeAreaPerimeter.exe
+C:\Users\hanyo\source\repos\Assignment3\CsharpAssignment3\ShapeAreaPerimeter\ShapeAreaPerimeter\obj\Debug\ShapeAreaPerimeter.pdb
